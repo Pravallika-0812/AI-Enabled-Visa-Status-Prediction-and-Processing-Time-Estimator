@@ -1,1 +1,1 @@
-# AI-Enabled-Visa-Status-Prediction-and-Processing-Time-Estimator
+# Ai-Enabled-Visa-Status-Prediction-and-Processing-Time-Estimator
